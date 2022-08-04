@@ -82,17 +82,19 @@ body {
 
 .infos h2 {
     text-align: center;
+    font-size: 26px;
 }
 
 .info-boxes {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 60px;
 }
 
 .info-box {
     width: 150px;
-    padding: 20px;
+    padding: 0px 20px;
 }
 
 .info-box p {
@@ -138,5 +140,53 @@ body {
     font-size: 22px;
 }
 
+.CallToAction {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+}
+
+.CTA-container {
+    width: 70%;
+    background-color: #3882F6;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 50px;
+}
 
 
+.CTA-Text {
+    color: #E5E7EB;
+    margin: 0px;
+}
+
+.CTA-Text h3 {
+    margin: 0px;
+    font-size: 24px;
+}
+
+.CTA-Text p {
+    margin: 0px;
+}
+
+.CTA-button button {
+    padding: 8px 30px;
+    border-radius: 10px;
+    border: 2px solid #E5E7EB;
+    background-color: #3882F6;
+    color: #E5E7EB;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    font-size: 16px;
+    text-align: center;
+    padding: 10px 0px;
+}
