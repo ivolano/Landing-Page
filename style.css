@@ -49,13 +49,18 @@ body {
 }
 
 .titulo-info {
-    width: 400px;
+    width: 500px;
     color: #F9FAF8;
     font-size: 18px;
 }
 
+.titulo-info h1 {
+    font-size: 48px;
+}
+
 .titulo-info p {
     color: #E5E7EB;
+    font-size: 18px;
 }
 
 .titulo-info a {
@@ -73,5 +78,31 @@ body {
     height: 100%;
     background-color: rgba(255, 255, 255, 0.281);
     width: 400px;
-    
+}
+
+.infos h2 {
+    text-align: center;
+}
+
+.info-boxes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.info-box {
+    width: 150px;
+    padding: 20px;
+}
+
+.info-box p {
+    text-align: center;
+    font-size: 14px;
+}
+
+.box-img {
+    width: 100%;
+    height: 150px;
+    border: 3px solid #3882F6;
+    border-radius: 8px;
 }
