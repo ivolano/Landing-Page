@@ -14,7 +14,8 @@ A The Odin Project based landing page, made as the fist project on TheOdinProjec
 
 ## Screenshots
 
-![Screenshot 1](/Screenshots/Screenshot%201.png "Optional title")
+![Screenshot 1](/Screenshots/Screenshot%201.png "Screenshot 1")
+![Screenshot 2](/Screenshots/Screenshot%202.png "Screenshot 2")
 
 
 ## Icons
